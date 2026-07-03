@@ -8,7 +8,33 @@ Features
 
 Tech Stack
 
-Architecture
+Architecture :
+
+                         User
+                      
+                          ↓
+                      
+                      Upload CSV
+                      
+                          ↓
+                      
+                    Data Analyzer
+                      
+                          ↓
+                      
+                  Statistics Engine
+                      
+                          ↓
+                      
+                 Visualization Engine
+                      
+                          ↓
+                      
+                      AI Engine
+                      
+                          ↓
+                      
+                    Report Generator
 
 Installation
 
